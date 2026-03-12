@@ -3,6 +3,8 @@
 ## 💫 About Me:
 Hi! I'm Patrick Wong, a 4th year Computer Science student at University of California, Irvine. I enjoy playing video games, watching anime, and playing badminton.
 
+<h1 align="center">Hello</h1>
+
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/patrick-wong288/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pattywong2882@gmail.com) 
