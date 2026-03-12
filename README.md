@@ -1,9 +1,8 @@
-# Hi, I'm Patrick
+# <h1 align="center">Hi, I'm Patrick</h1>
 
 ## 💫 About Me:
 Hi! I'm Patrick Wong, a 4th year Computer Science student at University of California, Irvine. I enjoy playing video games, watching anime, and playing badminton.
 
-<h1 align="center">Hello</h1>
 
 
 ### 🌐 Socials:
